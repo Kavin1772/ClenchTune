@@ -48,7 +48,7 @@
 
   <h2>🎬 Demo Video</h2>
   <!-- ✅ Embed Google Drive video -->
-  <iframe src="https://drive.google.com/file/d/1SGflaWPdg_cIZXje1ORA-oWwYBiqCF7I/view?usp=drive_link"></iframe>
+  <iframe src="https://drive.google.com/file/d/1H06hLYSXXZyfIp725v4Qfo6srUPgkx_8/view?usp=sharing"></iframe>
 
   <h2>📸 Project Poster</h2>
   <!-- ✅ Embed Google Drive image -->
